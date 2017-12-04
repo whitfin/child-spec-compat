@@ -9,8 +9,6 @@ If you run your code purely on Elixir > v1.5, you should use `Supervisor.child_s
 
 This library is available on [Hex](https://hex.pm/). You can install the package via:
 
-  1. Add cachex to your list of dependencies in `mix.exs`:
-
 ```elixir
 def deps do
   [{:child_spec_compat, "~> 1.0"}]
